@@ -1,0 +1,1 @@
+powershell.exe -WindowStyle Hidden -file .\SPO_DeleteSite.ps1
